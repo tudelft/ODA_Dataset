@@ -6,7 +6,7 @@ Julien Dupeyroux, Raoul Dinaux, Nikhil Wessendorp, and Guido de Croon. <br/>*Mic
 
 ---
 
-The full dataset is available at: <br/>https://data.4tu.nl/articles/dataset/The_Obstacle_Detection_and_Avoidance_Dataset_for_Drones/14214236/1
+The full dataset is available at: <br/>https://doi.org/10.4121/14214236.v1
 
 ---
 
